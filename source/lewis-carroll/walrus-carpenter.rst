@@ -1,3 +1,6 @@
+.. index::
+   single: poems; The Walrus and the Carpenter
+
 The Walrus and the Carpenter
 ----------------------------
 

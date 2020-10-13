@@ -1,3 +1,6 @@
+.. index::
+   single: poems; Because I could not stop for Death
+
 Because I could not stop for Death
 ----------------------------------
 

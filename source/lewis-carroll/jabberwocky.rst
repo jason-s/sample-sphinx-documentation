@@ -1,3 +1,6 @@
+.. index::
+   single: poems; Jabberwocky
+
 .. _jabberwocky:
 
 Jabberwocky

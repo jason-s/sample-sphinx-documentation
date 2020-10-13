@@ -1,3 +1,6 @@
+.. index::
+   single: poems; "Hope" is the thing with feathers
+
 "Hope" is the thing with feathers
 ---------------------------------
 
