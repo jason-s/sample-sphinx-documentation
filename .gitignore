@@ -1,2 +1,3 @@
 **.pyc
 source/_images/*.pdf
+build/doctrees
