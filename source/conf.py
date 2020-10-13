@@ -180,4 +180,13 @@ epub_title = project
 epub_exclude_files = ['search.html']
 
 
+# ------------- Miscellaneous -------------
+
+numfig = True
+math_numfig = True
+math_number_all = True
+
+numfig_format = {'figure': 'Figure %s', 'table': 'Table %s', 'code-block': 'Listing %s'}
+
+math_eqref_format = "{number}"
 # -- Extension configuration -------------------------------------------------
